@@ -5,8 +5,8 @@ You can click the Preview link to take a look at your changes.
 	<summary>Click to expand this section!</summary>
 	<h5>About me</h5>
 
-	```javascript
-	- 👋 Hi, I’m @danielsreis
+
+- 👋 Hi, I’m @danielsreis
 - 👀 I’m interested in data science and engineering
 - 🌱 I’m currently learning Python, R, Machine Learning, SQL.
 - 💞️ I’m looking to collaborate on brazilian dataset, python projects, engineering programs
