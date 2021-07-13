@@ -8,3 +8,11 @@
 danielsreis/danielsreis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<details>
+	<summary>Click to expand this section!</summary>
+	<h5>A nice Javascript pitfall!</h5>
+
+	```javascript
+	console.log(['1', '7', '11'].map(parseInt));
+	```
+</details>
